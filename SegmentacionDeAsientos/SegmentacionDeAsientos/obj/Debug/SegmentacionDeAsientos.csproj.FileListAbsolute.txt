@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\bin\Debug\SegmentacionDeAsientos.exe.config
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\bin\Debug\SegmentacionDeAsientos.exe
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\bin\Debug\SegmentacionDeAsientos.pdb
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.Form1.resources
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.Properties.Resources.resources
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.exe
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.pdb
+C:\Users\usuario\Desktop\PROYECTOS\Intergloo\SegmentacionDeAsientos\SegmentacionDeAsientos\obj\Debug\SegmentacionDeAsientos.csproj.AssemblyReference.cache
